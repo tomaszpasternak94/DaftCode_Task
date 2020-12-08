@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="settings (3): python decouple module (for a secret_key) added, main project and core app created">
-      <change afterPath="$PROJECT_DIR$/outer_project/apps/core/templates/core/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (1): home view and url added, initial setup of base html + extension of base - home html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outer_project/apps/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/apps/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outer_project/apps/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/apps/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outer_project/outer_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/outer_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outer_project/outer_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/outer_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607292923492</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat (1): home view and url added, initial setup of base html + extension of base - home html">
+      <created>1607294422749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607294422749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,16 +108,17 @@
     <MESSAGE value="settings (1): added gitignore and README file with initial info." />
     <MESSAGE value="settings (2): added (initial) requirements file." />
     <MESSAGE value="settings (3): python decouple module (for a secret_key) added, main project and core app created" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings (3): python decouple module (for a secret_key) added, main project and core app created" />
+    <MESSAGE value="feat (1): home view and url added, initial setup of base html + extension of base - home html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (1): home view and url added, initial setup of base html + extension of base - home html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1607292428259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607292428259" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607292933276">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607294432820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607292933276" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607294432820" />
   </component>
 </project>
