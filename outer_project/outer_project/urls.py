@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.urls import include
 
 from apps.core.views import home
 urlpatterns = [
@@ -23,4 +24,7 @@ urlpatterns = [
 
     # homepage
     path('', home, name='home'),
+
+    # crud urls
+    path('crud/', include('crud.urls')),
 ]

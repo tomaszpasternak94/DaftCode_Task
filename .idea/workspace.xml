@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (3): serializer and api file added to crud directory">
+    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (4): Crud serializer and crud create api view (from generic class) added">
+      <change afterPath="$PROJECT_DIR$/outer_project/crud/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outer_project/crud/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/crud/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outer_project/crud/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/crud/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outer_project/outer_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/outer_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607533739681</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat (4): Crud serializer and crud create api view (from generic class) added">
+      <created>1607534287006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607534287006</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,17 +133,18 @@
     <MESSAGE value="feat (1): home view and url added, initial setup of base html + extension of base - home html" />
     <MESSAGE value="feat (2): new crud app added to the project" />
     <MESSAGE value="feat (3): serializer and api file added to crud directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (3): serializer and api file added to crud directory" />
+    <MESSAGE value="feat (4): Crud serializer and crud create api view (from generic class) added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (4): Crud serializer and crud create api view (from generic class) added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1607292428259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607292428259" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607533751418">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607534293436">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607533751418" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607465162685" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607534293436" />
   </component>
 </project>
