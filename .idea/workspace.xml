@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (6): list api view added, crud model registered">
+    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (7): update api view - added, url patterns extended">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outer_project/crud/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/crud/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outer_project/crud/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/crud/urls.py" afterDir="false" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607535766572</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat (7): update api view - added, url patterns extended">
+      <created>1607539879789</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607539879789</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,17 +157,18 @@
     <MESSAGE value="feat (4): Crud serializer and crud create api view (from generic class) added" />
     <MESSAGE value="feat (5): urls file added to crud app - mapping api endpoint to url" />
     <MESSAGE value="feat (6): list api view added, crud model registered" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (6): list api view added, crud model registered" />
+    <MESSAGE value="feat (7): update api view - added, url patterns extended" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (7): update api view - added, url patterns extended" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1607292428259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607292428259" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607535773385">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607539886271">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607533751418" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607539886271" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607535773385" />
   </component>
 </project>
