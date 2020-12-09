@@ -11,3 +11,6 @@ class CrudApiList(generics.ListAPIView):
     queryset = Crud.objects.all()
     serializer_class = CrudSerializer
 
+class CrudUpdateApi(generics.RetrieveAPIView):
+    queryset = Crud.objects.all()
+    serializer_class = CrudSerializer
