@@ -6,3 +6,8 @@ from .models import Crud
 class CrudCreateApi(generics.CreateAPIView):
     queryset = Crud.objects.all()
     serializer_class = CrudSerializer
+
+class CrudApiList(generics.ListAPIView):
+    queryset = Crud.objects.all()
+    serializer_class = CrudSerializer
+
