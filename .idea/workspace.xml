@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (1): home view and url added, initial setup of base html + extension of base - home html">
+    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (2): new crud app added to the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outer_project/apps/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/apps/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outer_project/crud/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/crud/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outer_project/outer_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/outer_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607294422749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat (2): new crud app added to the project">
+      <created>1607465155208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607465155208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,16 +116,18 @@
     <MESSAGE value="settings (2): added (initial) requirements file." />
     <MESSAGE value="settings (3): python decouple module (for a secret_key) added, main project and core app created" />
     <MESSAGE value="feat (1): home view and url added, initial setup of base html + extension of base - home html" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (1): home view and url added, initial setup of base html + extension of base - home html" />
+    <MESSAGE value="feat (2): new crud app added to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (2): new crud app added to the project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1607292428259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607292428259" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607294432820">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607465162685">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607294432820" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607465162685" />
   </component>
 </project>

@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'apps.core',
     # rest framework
     'rest_framework',
+    # core
+    'crud',
 ]
 
 MIDDLEWARE = [
