@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="feat (8): delete api view - added, url patterns extended">
+    <list default="true" id="f73f7d24-fe7d-41c1-b909-78f5c4046253" name="Default Changelist" comment="settings (4): requirements file updated - DRF JWT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outer_project/outer_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/outer_project/outer_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607540266460</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="settings (4): requirements file updated - DRF JWT">
+      <created>1607708992334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607708992335</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,17 +172,18 @@
     <MESSAGE value="feat (6): list api view added, crud model registered" />
     <MESSAGE value="feat (7): update api view - added, url patterns extended" />
     <MESSAGE value="feat (8): delete api view - added, url patterns extended" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (8): delete api view - added, url patterns extended" />
+    <MESSAGE value="settings (4): requirements file updated - DRF JWT" />
+    <option name="LAST_COMMIT_MESSAGE" value="settings (4): requirements file updated - DRF JWT" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1607708814624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607708814624" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607540272565">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607709006421">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607539886271" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607709006421" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607540272565" />
   </component>
 </project>
